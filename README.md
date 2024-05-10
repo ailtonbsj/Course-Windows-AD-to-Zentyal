@@ -14,6 +14,19 @@ Creator: Luciano Rodrigues
 ```bash
 # Add/remove Domain Controllers
 dcpromo
+
+# Populate AD (use PowerShell)
+Set-ExecutionPolicy Unrestricted
+.\import.ps1
+
+# Check IPs of domain
+nslookup mylab.lan
+
+# Get list of all Domain Controllers
+nltest /dclist:mylab.lan
+
+# Query for DC with FSMO
+netdom query fsmo
 ```
 
 ## Refenreces

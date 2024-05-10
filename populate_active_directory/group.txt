@@ -1,0 +1,316 @@
+﻿CN=Administrators,CN=Builtin,DC=mylab,DC=lan
+CN=Users,CN=Builtin,DC=mylab,DC=lan
+CN=Guests,CN=Builtin,DC=mylab,DC=lan
+CN=Print Operators,CN=Builtin,DC=mylab,DC=lan
+CN=Backup Operators,CN=Builtin,DC=mylab,DC=lan
+CN=Replicator,CN=Builtin,DC=mylab,DC=lan
+CN=Remote Desktop Users,CN=Builtin,DC=mylab,DC=lan
+CN=Network Configuration Operators,CN=Builtin,DC=mylab,DC=lan
+CN=Performance Monitor Users,CN=Builtin,DC=mylab,DC=lan
+CN=Performance Log Users,CN=Builtin,DC=mylab,DC=lan
+CN=Distributed COM Users,CN=Builtin,DC=mylab,DC=lan
+CN=IIS_IUSRS,CN=Builtin,DC=mylab,DC=lan
+CN=Cryptographic Operators,CN=Builtin,DC=mylab,DC=lan
+CN=Event Log Readers,CN=Builtin,DC=mylab,DC=lan
+CN=Certificate Service DCOM Access,CN=Builtin,DC=mylab,DC=lan
+CN=Domain Computers,CN=Users,DC=mylab,DC=lan
+CN=Domain Controllers,CN=Users,DC=mylab,DC=lan
+CN=Schema Admins,CN=Users,DC=mylab,DC=lan
+CN=Enterprise Admins,CN=Users,DC=mylab,DC=lan
+CN=Cert Publishers,CN=Users,DC=mylab,DC=lan
+CN=Domain Admins,CN=Users,DC=mylab,DC=lan
+CN=Domain Users,CN=Users,DC=mylab,DC=lan
+CN=Domain Guests,CN=Users,DC=mylab,DC=lan
+CN=Group Policy Creator Owners,CN=Users,DC=mylab,DC=lan
+CN=RAS and IAS Servers,CN=Users,DC=mylab,DC=lan
+CN=Server Operators,CN=Builtin,DC=mylab,DC=lan
+CN=Account Operators,CN=Builtin,DC=mylab,DC=lan
+CN=Pre-Windows 2000 Compatible Access,CN=Builtin,DC=mylab,DC=lan
+CN=Incoming Forest Trust Builders,CN=Builtin,DC=mylab,DC=lan
+CN=Windows Authorization Access Group,CN=Builtin,DC=mylab,DC=lan
+CN=Terminal Server License Servers,CN=Builtin,DC=mylab,DC=lan
+CN=Allowed RODC Password Replication Group,CN=Users,DC=mylab,DC=lan
+CN=Denied RODC Password Replication Group,CN=Users,DC=mylab,DC=lan
+CN=Read-only Domain Controllers,CN=Users,DC=mylab,DC=lan
+CN=Enterprise Read-only Domain Controllers,CN=Users,DC=mylab,DC=lan
+CN=DnsAdmins,CN=Users,DC=mylab,DC=lan
+CN=DnsUpdateProxy,CN=Users,DC=mylab,DC=lan
+CN=TI mylab,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Exchange Domain Servers,CN=Users,DC=mylab,DC=lan
+CN=TelnetClients,CN=Users,DC=mylab,DC=lan
+CN=DHCP Users,CN=Users,DC=mylab,DC=lan
+CN=DHCP Administrators,CN=Users,DC=mylab,DC=lan
+CN=WINS Users,CN=Users,DC=mylab,DC=lan
+CN=MTS Impersonators,CN=Users,DC=mylab,DC=lan
+CN=mylab$$$,CN=Users,DC=mylab,DC=lan
+CN=KAVWSEE Administrators,CN=Users,DC=mylab,DC=lan
+CN=SQLServer2005MSSQLUser$BMABH10$BKUPEXEC,CN=Users,DC=mylab,DC=lan
+CN=KLAdmins,CN=Users,DC=mylab,DC=lan
+CN=KLOperators,CN=Users,DC=mylab,DC=lan
+CN=HelpServicesGroup,CN=Users,DC=mylab,DC=lan
+CN=Comunicação,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Exchange Services,CN=Users,DC=mylab,DC=lan
+CN=Dados_Clientes_GSM-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Lideres Centros de Competencia NL,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=RH NL,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Assessoria de Contratos e Custos NL,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Todos_mylab,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Mapa_Carga_DSM-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Gestao_Entregaveis_GSM-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO150,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Proposta_GSR-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO148,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Mapa_Carga_DSR-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Diretoria,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=CV_GMR-CBH,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO145,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Fisico NL,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Compras,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Promon_GSR-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Comercial NL,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Gestao_Projetos-USM-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=CV_GSM-CBH,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Atestados_GSM,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO149,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Engenharia Florestal NL,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Contato,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Ecoeficiencia,CN=Users,DC=mylab,DC=lan
+CN=Qualidade,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=IIS_WPG,CN=Users,DC=mylab,DC=lan
+CN=Rede_Estendida_GSM,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO151,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Mapa_Acompanhamento_DSR-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Promon_GSM-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Ppublicas_GSM-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Exchange Enterprise Servers,CN=Users,DC=mylab,DC=lan
+CN=Gerentes de Contrato NL,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Biotico NL,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Ramais_GSM-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Mapa_Acompanhamento_DSM-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Dados_Clientes_GSR-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Escaner_Adm_USM-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Gestores ADM,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=VPN,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=MMQ,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Gestao_Projetos-USR-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Exchange Admins,CN=Users,DC=mylab,DC=lan
+CN=Producao Grafica NL,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Logon as a Service and BAT Job,CN=Users,DC=mylab,DC=lan
+CN=Administrativo NL,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Logistica NL,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Engenharia Ambiental NL,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO135,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO134,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Scaner_Administracao-GSM-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Financeiro NL,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Area Tecnica NL,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Escaner_Area_Tec_USM-ABC,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO122,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=RadarPMA - GUM,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Gestao_de_Custos_gravacao,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Gestao_de_Custos_Gestores_de_Contrato_leitura,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Gestao_de_Custos_Diretoria_leitura,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO079,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO078,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=LiberadosProxy,CN=Users,DC=mylab,DC=lan
+CN=Produtizacao,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO142,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO141,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO133,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Comercial_Proativo,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Gis,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=TV_Area_Tecnica,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Cipa,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=FTP,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Gestao_Entregaveis_Leitura,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=openfire,CN=Users,DC=mylab,DC=lan
+CN=PROJETO018,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Acesso Remoto,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=SAP,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=SSMA,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO123,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=AlfrescoAdmins,OU=Alfresco,OU=mylab,DC=mylab,DC=lan
+CN=AlfrescoUsers,OU=Alfresco,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO024,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO146,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO147,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=LiberaBlogspot,CN=Users,DC=mylab,DC=lan
+CN=PROJETO020,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO019,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Gestao_Contratos_Leitura,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=ProxyPadrao,CN=Users,DC=mylab,DC=lan
+CN=LiberadosYammer,CN=Users,DC=mylab,DC=lan
+CN=PROJETO124,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO144,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO095,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Logistica_Clientes,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=OpenVPN,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO039,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Proxy-RedesSociais,CN=Users,DC=mylab,DC=lan
+CN=CFS03,CN=Users,DC=mylab,DC=lan
+CN=CFS04,CN=Users,DC=mylab,DC=lan
+CN=CFS05,CN=Users,DC=mylab,DC=lan
+CN=Escaner_RH,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=GP_SemProxy,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=ProxyWhatsApp,CN=Users,DC=mylab,DC=lan
+CN=PROJETO032,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Gestão_de_Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO125,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Suprimentos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Suporte_Controle_Operacional,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO128,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO064,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO129,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Produção Gráfica NL_Leitura,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=ESPELEOLOGIA,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Biblioteca_mylab,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO130,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO131,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO091,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO092,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Dados_Geo_IT,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO143,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO055,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO002,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO127,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO138,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO008,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=HUB_Espeleologia_Gravacao,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=HUB_Espeleologia_leitura,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=HUB_Fauna_Gravacao,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO073,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO068,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO126,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO104,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=HUB_Socio_Gravacao,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO056,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=HUB_Flora_Leitura,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=HUB_Flora_Gravacao,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO017,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO034,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO045,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO099,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=DP_NL,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Ruidos_Gravacao,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO065,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO069,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO111,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO109,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO106,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO088,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO042,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO152,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO098,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO139,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO140,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO100,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO057,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO058,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO040,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO044,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO046,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO107,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO110,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO112,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO114,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO027,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO026,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO021,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO022,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO023,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO033,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO086,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO087,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO074,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO071,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO072,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO063,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO108,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO103,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO070,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO153,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO090,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO080,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO025,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO105,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO093,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO094,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO113,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO016,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO115,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO081,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=TV_Area_Tecnica_Leitura,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO076,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO041,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO047,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO015,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO085,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO084,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Software-teste,OU=T.I_Parceiro,OU=Usuarios,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO048,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO049,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Gestao_Contratos_GPO,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO031,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO028,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO029,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO010,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO011,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO012,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO116,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO051,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO009,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO050,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO014,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO003,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO004,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Gestao_tecnica,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO117,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO035,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO036,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO075,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO037,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO052,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO097,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO007,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO132,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO001,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO066,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=RH_SSMA,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=HUB_MMA_Gravacao,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO053,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Hub_Arqueologia_Escrita,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO059,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO043,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO013,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO137,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO038,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO077,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO005,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO061,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO102,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO067,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO118,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO101,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO119,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO030,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO089,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO096,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Michele_HUBs,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Hub_Arqueologia_leitura,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=HUB_MMA_Leitura,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=HUB_Humanidades_gravacao,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=HUB_Humanidades_leitura,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=HUB_Geointeligencia_leitura,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=HUB_Geointeligencia_gravacao,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Hub_Fisico_e_Engenharias_leitura,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=Hub_Fisico_e_Engenharias_gravacao,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=HUB_Biodiversidade_Leitura,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO120,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO060,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO121,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO062,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO082,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO083,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO136,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO054,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan
+CN=PROJETO006,OU=Projetos,OU=Grupos,OU=mylab,DC=mylab,DC=lan

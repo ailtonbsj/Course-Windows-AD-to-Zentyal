@@ -1,0 +1,46 @@
+﻿OU=Domain Controllers,DC=mylab,DC=lan
+OU=MyLab,DC=mylab,DC=lan
+OU=Grupos,OU=MyLab,DC=mylab,DC=lan
+OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=T.I_Parceiro,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=UsuariosDesativados,OU=MyLab,DC=mylab,DC=lan
+OU=Servicos,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Computadores,OU=MyLab,DC=mylab,DC=lan
+OU=Servidores,OU=Computadores,OU=MyLab,DC=mylab,DC=lan
+OU=Workstation,OU=Computadores,OU=MyLab,DC=mylab,DC=lan
+OU=Shp,OU=Servicos,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=FTP,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Notebooks,OU=Computadores,OU=MyLab,DC=mylab,DC=lan
+OU=Externos,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Papel de parede,OU=MyLab,DC=mylab,DC=lan
+OU=Alfresco,OU=MyLab,DC=mylab,DC=lan
+OU=outeste,OU=Computadores,OU=MyLab,DC=mylab,DC=lan
+OU=Administração/Finan,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=CEMIG,OU=Externos,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Comercial,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Diretoria,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Logística,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Produção,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Gestão de Contratos,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Área Técnica,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Jovem Aprendiz,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=SDEPCI,OU=Externos,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=SSMA,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Projeto_Norte,OU=Externos,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Lavras,OU=Externos,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Espeleologia,OU=Área Técnica,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Suprimentos,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Desabilitados,OU=FTP,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=TI,OU=UsuariosDesativados,OU=MyLab,DC=mylab,DC=lan
+OU=Departamento de Operações,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Salas de reuniões,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Ex-Funcionarios,OU=T.I_Parceiro,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Projetos,OU=Grupos,OU=MyLab,DC=mylab,DC=lan
+OU=Install,DC=mylab,DC=lan
+OU=Teste_GPO,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Teste,DC=mylab,DC=lan
+OU=Computer,OU=Teste,DC=mylab,DC=lan
+OU=RH,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=DepartamentoPessoal,OU=RH,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=RecursosHumanos,OU=RH,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
+OU=Qualidade,OU=Usuarios,OU=MyLab,DC=mylab,DC=lan
