@@ -64,6 +64,21 @@ samba-tool user list
 
 # Query for DC with FSMO
 samba-tool fsmo show
+
+# Show zones of DNS
+samba-tool dns zonelist 127.0.0.1 -P
+
+# Conect and download folders from a shared folder
+smbclient //server01/sysvol -U administrator%Password
+smb> cd mylab.lan
+smb> recurse
+smb> prompt
+smb> mget scripts
+smb> mget Policies
+
+# Reset sysvol permissions
+samba-tool ntacl sysvolreset
+samba-tool ntacl sysvolcheck
 ```
 
 ## Refenreces
