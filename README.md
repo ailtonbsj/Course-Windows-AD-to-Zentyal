@@ -1,5 +1,5 @@
 # Course of Migration Windows AD to Zentyal
-![](https://img.shields.io/badge/status-progress-blue)
+![](https://img.shields.io/badge/status-completed-lightgreen)
 
 <p align="center">
 <img src=".github/logo.png">
@@ -47,6 +47,16 @@ regsvr32 schmmgmt.dll
 
 # Microsoft Management Console
 mmc
+
+# Remove DC from domain
+dcpromo /forceremoval
+
+# Install RSAT Group Policy Management Tools on Windows 11
+# Then run:
+gpmc.msc
+
+# Copy SMB shared folders preserving permissions ACL
+robocopy \\server01\public \\server02\public /MIR /SEC
 ```
 
 ## Commands for Linux Zentyal
@@ -79,8 +89,18 @@ smb> mget Policies
 # Reset sysvol permissions
 samba-tool ntacl sysvolreset
 samba-tool ntacl sysvolcheck
+
+# Run script samba_replicate_sysvol
+
+# Check logs
+journalctl --since "2024-05-10 19:50"
+
+# List DNS registers on DC
+samba-tool dns query 127.0.0.1 mylab.lan @ A -P
 ```
 
 ## Refenreces
 
 [Playlist from SysAdminBr Channel](https://youtube.com/playlist?list=PLFajyb7NamFDqLmrUIddr_euDkRcWMgQ9&si=DSh5C1VDw9WLha-j)
+
+[Samba Replicate Sysvol](https://github.com/CitraIT/samba_replicate_sysvol)
