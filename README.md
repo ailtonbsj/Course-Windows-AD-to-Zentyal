@@ -1,5 +1,5 @@
 # Course of Migration Windows AD to Zentyal
-![](https://img.shields.io/badge/status-completed-lightgreen)
+![](https://img.shields.io/badge/status-completed-brightgreen)
 
 <p align="center">
 <img src=".github/logo.png">
