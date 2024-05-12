@@ -99,7 +99,7 @@ journalctl --since "2024-05-10 19:50"
 samba-tool dns query 127.0.0.1 mylab.lan @ A -P
 ```
 
-## Refenreces
+## References
 
 [Playlist from SysAdminBr Channel](https://youtube.com/playlist?list=PLFajyb7NamFDqLmrUIddr_euDkRcWMgQ9&si=DSh5C1VDw9WLha-j)
 
